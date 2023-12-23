@@ -11,6 +11,7 @@ declare global {
         documentProps?: {
           title?: string
           description?: string
+          locale?: string
         }
       }
     }
